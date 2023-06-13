@@ -1,0 +1,11 @@
+md/a*/
+md/g*/
+md/c*/
+md/u*/
+**.nc**
+**.ipynb_checkpoints/
+analysis/torsion_scan_*.sdf
+qca-dataset-submission-test/torsion_scan_*_filtered.sdf.gz
+qca-dataset-submission-test/dataset.json.bz2
+qca-dataset-submission-test/dataset.pdf
+qca-dataset-submission-test/dataset.smi
